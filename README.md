@@ -1,4 +1,4 @@
-# Cats and Dogs Classification 🐱🐶
+# Cats and dogs classification
 
 Proyecto de clasificación de imágenes de gatos y perros usando Redes Neuronales Residuales (ResNet) con PyTorch.
 
@@ -32,7 +32,7 @@ conda activate residual-nn
 
 3. **Instalar dependencias**
 ```bash
-pip install -r requirements.txt
+pip install -r requirements-v2.txt
 ```
 
 ### Dataset
