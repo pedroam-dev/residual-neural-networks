@@ -27,7 +27,7 @@ else:
 
 print(f"Usando dispositivo: {DEVICE}")
 
-DATA_PATH = "/Users/pedroam/Pictures/PetImages" # Asegúrate que esta ruta sea correcta
+DATA_PATH = "/Users/pedroam/Pictures/PetImages" # Ruta del dataset
 
 # 2. Preparación de Datos
 transform = transforms.Compose([
