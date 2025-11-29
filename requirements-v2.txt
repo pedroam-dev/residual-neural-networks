@@ -1,0 +1,1 @@
+pip install torch torchvision torchaudio matplotlib scikit-learn pillow tqdm requests numpy scipy
